@@ -1,0 +1,69 @@
+{
+    "frames": {
+        "bats_fly1.png": {
+            "aliases": [],
+            "spriteColorRect": "{{0, 0}, {181, 100}}",
+            "spriteOffset": "{0, -0}",
+            "spriteSize": "{181, 100}",
+            "spriteSourceSize": "{181, 100}",
+            "spriteTrimmed": true,
+            "textureRect": "{{0, 0}, {181, 100}}",
+            "textureRotated": false
+        },
+        "bats_fly2.png": {
+            "aliases": [],
+            "spriteColorRect": "{{0, 4}, {171, 96}}",
+            "spriteOffset": "{-5, -2}",
+            "spriteSize": "{171, 96}",
+            "spriteSourceSize": "{181, 100}",
+            "spriteTrimmed": true,
+            "textureRect": "{{173, 102}, {171, 96}}",
+            "textureRotated": false
+        },
+        "bats_fly3.png": {
+            "aliases": [],
+            "spriteColorRect": "{{1, 0}, {171, 100}}",
+            "spriteOffset": "{-4, -0}",
+            "spriteSize": "{171, 100}",
+            "spriteSourceSize": "{181, 100}",
+            "spriteTrimmed": true,
+            "textureRect": "{{0, 102}, {171, 100}}",
+            "textureRotated": false
+        },
+        "fire.png": {
+            "aliases": [],
+            "spriteColorRect": "{{1, 1}, {30, 30}}",
+            "spriteOffset": "{0, -0}",
+            "spriteSize": "{30, 30}",
+            "spriteSourceSize": "{32, 32}",
+            "spriteTrimmed": true,
+            "textureRect": "{{183, 0}, {30, 30}}",
+            "textureRotated": false
+        },
+        "sonic_boom.png": {
+            "aliases": [],
+            "spriteColorRect": "{{0, 2}, {16, 29}}",
+            "spriteOffset": "{-1, -1}",
+            "spriteSize": "{16, 29}",
+            "spriteSourceSize": "{18, 31}",
+            "spriteTrimmed": true,
+            "textureRect": "{{215, 0}, {16, 29}}",
+            "textureRotated": false
+        }
+    },
+    "metadata": {
+        "format": 3,
+        "name": "bats",
+        "premultipliedAlpha": false,
+        "size": "{512, 512}",
+        "target": {
+            "coordinatesFileExtension": ".plist",
+            "coordinatesFileName": "bats",
+            "name": "default",
+            "premultipliedAlpha": false,
+            "textureFileExtension": ".png",
+            "textureFileName": "bats"
+        },
+        "version": "1.5.2"
+    }
+}
